@@ -1,0 +1,213 @@
+.text
+{
+    font-family: "Bold Italic Art";
+}
+.textSign
+{
+    font-family: "Bold Italic Art";
+    font-size: 20px;
+
+    /*border: 2px red solid;*/
+
+}
+.textSignUP
+{
+    font-family: "Bold Italic Art";
+    font-size: 20px;
+    border: 4px #172035 solid;
+    border-radius: 50px;
+    color:  #172035;
+}
+.line3 a
+{
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 50px;
+    font-family: "Bold Italic Art";
+
+    background-color:maroon ;
+    color: white;
+    /*border: 2px red solid;*/
+    text-decoration: none;
+    font-size: 25px;
+}
+.line3 :hover
+{
+    background-color: #cc0000;
+    color: white;
+}
+.line3
+{
+    padding-right: 100px;
+    border-radius: 50px;
+}
+/*------------------------------------------------------------------------------------------*/
+
+.SignImg
+{
+    padding-left: 300px;
+}
+.textCenter{
+    padding-left: 300px;
+
+}
+.SignImg img
+{
+    /*border: 2px solid red;*/
+    width: 200px;
+    height: 200px;
+}
+
+
+
+.TypeOfSigns a
+{
+    
+    border: solid 2px maroon;
+    border-radius: 50px;
+    text-decoration: none;
+    padding: 10px;
+    background-color: #172035 ;
+    color: white;
+    font-family: "Bold Italic Art";
+    border: none;
+   
+}
+.TypeOfSigns :hover
+{
+    background-color: #09568d;
+    color: white;
+}
+.TypeOfSigns
+{
+    padding-left: 70px;
+}
+.OnThisPage
+{
+    font-family: "Bold Italic Art";
+    font-size: 20px;
+    color: maroon;
+
+}
+
+.Regulatory_signs
+{
+    font-family: "Bold Italic Art";
+    font-size: 25px;
+    color: maroon;
+    border: 4px maroon solid;
+    border-radius: 50px;
+    width: 350px;
+    text-align: center;
+}
+.imgSign
+{
+alignment: left;
+    padding-top: 0px;
+    /*border: 2px solid red;*/
+}
+.SignTitle a
+{
+    font-family: "Bold Italic Art";
+    font-size: 60px;
+    color: maroon;
+    padding-left: 400px;
+    /*border: 2px solid red;*/
+    text-decoration: none;
+    padding-top: 1000px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*************************************/
+.overlay {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    transition: opacity 500ms;
+    visibility: hidden;
+    opacity: 0;
+}
+
+.overlay:target {
+    visibility: visible;
+    opacity: 1;
+}
+
+.popup {
+    margin: 70px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+    width: 30%;
+    position: relative;
+    transition: all 5s ease-in-out;
+}
+
+.popup h2 {
+    margin-top: 0;
+    color: #333;
+    font-family: Tahoma, Arial, sans-serif;
+}
+.popup .close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+}
+.popup .close:hover {
+    color: #06D85F;
+}
+.popup .content {
+    max-height: 30%;
+    overflow: auto;
+}
+
+@media screen and (max-width: 700px){
+    .box{
+        width: 70%;
+    }
+    .popup{
+        width: 70%;
+    }
+}
+
+/*************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,116 @@
+body
+{
+    width: 100%;
+}
+.Title
+{
+    font-family: "Bold Italic Art";
+    font-size: 50px;
+    padding-left: 400px;
+}
+
+
+
+.TheText
+{
+    font-size: 17px;
+    font-family: sans-serif;
+    border: 8px solid #172035;
+    border-radius: 50px;
+    background:  #e6e6e6;
+    margin-left: 364px;
+    /*!*width: 1000px;*!*/
+    /*margin-right: 1500px;*/
+    /*padding-left: 400px;*/
+    width: 790px;
+    /*text-align: center;*/
+
+
+}
+#Title1
+{
+    font-family: "Bold Italic Art";
+    color: #172035;
+    font-size: 40px;
+}
+#Title2
+{
+    font-family: "Bold Italic Art";
+    color: #172035;
+    font-size: 40px;
+}
+#Title3
+{
+    font-family: "Bold Italic Art";
+    color: #172035;
+    font-size: 40px;
+}
+#Title4
+{
+    font-family: "Bold Italic Art";
+    color: #172035;
+    font-size: 40px;
+}
+#Title5
+{
+    font-family: "Bold Italic Art";
+    color: #172035;
+    font-size: 40px;
+}
+#Title6
+{
+    font-family: "Bold Italic Art";
+    color: #172035;
+    font-size: 40px;
+}
+.motorIMG
+{
+    width: 300px;
+}
+
+.truckIMG2
+{
+    width: 300px;
+    padding-top: 25px;
+}
+
+.TitleBarre
+{
+    font-family: "Bold Italic Art";
+    font-size: 50px;
+    padding-left: 650px;
+}
+
+.taxiIMG
+{
+    width: 500px;
+    padding-left: 260px;
+}
+#Title11bus
+{
+    font-family: "Bold Italic Art";
+    font-size: 30px;
+    padding-left: 15px;
+}
+.yogaimg
+{
+    width: 600px;
+    padding-left: 200px;
+}
+.truckIMG99
+{
+    width: 600px;
+    padding-left: 180px;
+}
+.carIMG2
+{
+    width: 500px;
+    padding-left: 270px;
+}
+.HybridTitle
+{
+    font-family: "Bold Italic Art";
+    font-size: 40px;
+    padding-left: 650px;
+}
+

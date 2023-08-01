@@ -1,0 +1,57 @@
+body
+{
+    width: 100%;
+}
+.Title
+{
+    font-family: "Bold Italic Art";
+    font-size: 50px;
+    padding-left: 625px;
+}
+
+
+
+.TheText
+{
+    font-size: 17px;
+    font-family: sans-serif;
+    border: 8px solid #172035;
+    border-radius: 50px;
+    background:  #e6e6e6;
+    margin-left: 364px;
+    /*!*width: 1000px;*!*/
+    /*margin-right: 1500px;*/
+    /*padding-left: 400px;*/
+    width: 790px;
+    /*text-align: center;*/
+
+
+}
+#Title1
+{
+    font-family: "Bold Italic Art";
+    color: #172035;
+    font-size: 40px;
+}
+#Title2
+{
+    font-family: "Bold Italic Art";
+    color: #172035;
+    font-size: 40px;
+}
+#Title3
+{
+    font-family: "Bold Italic Art";
+    color: #172035;
+    font-size: 40px;
+}
+#Title4
+{
+    font-family: "Bold Italic Art";
+    color: #172035;
+    font-size: 40px;
+}
+.motorIMG
+{
+    width: 300px;
+}
